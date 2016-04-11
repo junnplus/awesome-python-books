@@ -58,6 +58,7 @@
 - 《利用Python进行数据分析》[中文版](https://www.amazon.cn/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-%E9%BA%A6%E9%87%91%E5%B0%BC/dp/B00GHGZLWS)
 - 《SciPy and NumPy:An Overview for Developers》
 - 《Python数据分析基础教程:NumPy学习指南》[中文第二版](https://www.amazon.cn/Python数据分析基础教程-NumPy学习指南-伊德里斯/dp/B00HLA8U86)
+- 《Python金融大数据分析》[中文版](https://www.amazon.cn/Python%E9%87%91%E8%9E%8D%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-%E5%BE%B7-%E4%BC%8A%E5%A4%AB%C2%B7%E5%B8%8C%E5%B0%94%E7%9A%AE%E6%96%AF%E7%A7%91/dp/B0182K8YMA)
 
 ## 安全
 - 《Python黑帽子:黑客与渗透测试编程之道》[中文版](https://www.amazon.cn/Python%E9%BB%91%E5%B8%BD%E5%AD%90-%E9%BB%91%E5%AE%A2%E4%B8%8E%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93-%E5%A1%9E%E8%8C%A8/dp/B013KKCLE4)

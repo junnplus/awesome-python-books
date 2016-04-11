@@ -58,6 +58,7 @@
 - *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* [English Edition](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
 - *SciPy and NumPy: An Overview for Developers* [English Edition](http://www.amazon.com/SciPy-NumPy-Developers-Eli-Bressert/dp/1449305466)
 - *NumPy Beginner's Guide* [English 3rd Edition](http://www.amazon.com/Numpy-Beginners-Guide-Ivan-Idris/dp/1785281968) / [English 2nd Edition](http://www.amazon.com/NumPy-Beginners-Guide-Second-Edition/dp/1782166084)
+- *Python for Finance: Analyze Big Financial Data* [English Edition](http://www.amazon.com/Python-Finance-Analyze-Financial-Data/dp/1491945281)
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
