@@ -61,6 +61,8 @@
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
+- *Gray Hat Python: Python Programming for Hackers and Reverse Engineers* [English Edition](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
+- *Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers* [English Edition](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
 ## Web Development
 - *Flask Web Development: Developing Web Applications with Python* [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
