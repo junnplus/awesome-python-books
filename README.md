@@ -2,38 +2,39 @@
 
 > Directory of Python books
 
-## Zero Basis
-- *A Byte of Python* [English Edition](http://www.amazon.com/Byte-Python-Swaroop-C-H/dp/1514828146) / [Online](http://python.swaroopch.com/)
-- *Hello World!: Computer Programming for Kids and Other Beginners* [English 2nd Edition](http://www.amazon.com/Hello-World-Computer-Programming-Beginners/dp/1617290920)
-- *Python for Kids: A Playful Introduction to Programming* [English Edition](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
-- *Learn Python the Hard Way* [English 3rd Edition](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) / [Online](http://learnpythonthehardway.org/book/)
-- *Python Programming for the Absolute Beginner* [English 2nd Edition](http://www.amazon.com/Python-Programming-Absolute-Beginner-Edition/dp/1598631128)
-- *Introduction to Computation and Programming Using Python* [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
+## Awesome Python Books
+- Zero Basis
+    - *A Byte of Python* [English Edition](http://www.amazon.com/Byte-Python-Swaroop-C-H/dp/1514828146) / [Online](http://python.swaroopch.com/)
+    - *Hello World!: Computer Programming for Kids and Other Beginners* [English 2nd Edition](http://www.amazon.com/Hello-World-Computer-Programming-Beginners/dp/1617290920)
+    - *Python for Kids: A Playful Introduction to Programming* [English Edition](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
+    - *Learn Python the Hard Way* [English 3rd Edition](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) / [Online](http://learnpythonthehardway.org/book/)
+    - *Python Programming for the Absolute Beginner* [English 2nd Edition](http://www.amazon.com/Python-Programming-Absolute-Beginner-Edition/dp/1598631128)
+    - *Introduction to Computation and Programming Using Python* [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
 
-## Primary
-- *Beginning Python: from Novice to Professional* [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
-- *Think Python: How to Think Like a Computer Scientist* [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
-- *Learning Python* [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
-- *Core Python Programming* [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
+- Primary
+    - *Beginning Python: from Novice to Professional* [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
+    - *Think Python: How to Think Like a Computer Scientist* [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
+    - *Learning Python* [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
+    - *Core Python Programming* [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
 
-## Intermediate
-- *The Hacker's Guide to Python* [English Edition](http://www.amazon.com/Hackers-Guide-Python-Julien-Danjou/dp/1304819248)
-- *Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns* [English Edition](http://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
-- *Expert Python Programming: Best practices for designing, coding, and distributing your Python software* [English Edition](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
-- *Programming Python* [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
-- *Core Python Applications Programming* [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
-- *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
-- *Writing Solid Python Code 91 Suggestions to Improve Your Python Program*
+- Intermediate
+    - *The Hacker's Guide to Python* [English Edition](http://www.amazon.com/Hackers-Guide-Python-Julien-Danjou/dp/1304819248)
+    - *Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns* [English Edition](http://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
+    - *Expert Python Programming: Best practices for designing, coding, and distributing your Python software* [English Edition](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
+    - *Programming Python* [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
+    - *Core Python Applications Programming* [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
+    - *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
+    - *Writing Solid Python Code 91 Suggestions to Improve Your Python Program*
 
-## References
-- *The Python Standard Library by Example* [English Edition](http://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0321767349)
-- *Python Cookbook* [English 3rd Edition](http://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)
-- *Python Essential Reference* [English 4th Edition](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786)
-- *Python in a Nutshell* [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
+- Advanced
+    - *High Performance Python: Practical Performant Programming for Humans* [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
+    - *Python 源码剖析*
 
-## Advanced
-- *High Performance Python: Practical Performant Programming for Humans* [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
-- *Python 源码剖析*
+- References
+    - *The Python Standard Library by Example* [English Edition](http://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0321767349)
+    - *Python Cookbook* [English 3rd Edition](http://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)
+    - *Python Essential Reference* [English 4th Edition](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786)
+    - *Python in a Nutshell* [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
 
 ## Algorithm
 - *Python Algorithms: Mastering Basic Algorithms in the Python Language* [English 2nd Edition](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)

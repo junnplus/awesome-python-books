@@ -2,38 +2,39 @@
 
 > Directory of Python books
 
-## 零基础
-- 《简明python教程》[在线](http://wiki.jikexueyuan.com/project/simple-python-course/)
-- 《父与子的编程之旅:与小卡特一起学Python》[中文版](https://www.amazon.cn/%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6%C2%B7%E7%88%B6%E4%B8%8E%E5%AD%90%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%97%85-%E4%B8%8E%E5%B0%8F%E5%8D%A1%E7%89%B9%E4%B8%80%E8%B5%B7%E5%AD%A6Python-%E6%A1%91%E5%BE%B7/dp/B00PG0MMLO)
-- 《趣学Python编程》[中文版](https://www.amazon.cn/%E8%B6%A3%E5%AD%A6Python%E7%BC%96%E7%A8%8B-%E5%B8%83%E9%87%8C%E6%A0%BC%E6%96%AF/dp/B00IM56I5Q)
-- 《"笨办法"学Python》[中文第三版](https://www.amazon.cn/%E5%AD%A6Python-%E8%82%96/dp/B00P6OJ0TC) / [在线](https://flyouting.gitbooks.io/learn-python-the-hard-way-cn/content/)
-- 《Python Programming for the Absolute Beginner》
-- 《编程导论》[中文版](https://www.amazon.cn/%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA-%E7%BE%8E-%E8%B0%B7%E6%B3%B0%E6%A0%BC/dp/B00W34DZ1M)
+## Awesome Python Books
+- 零基础
+    - 《简明python教程》[在线](http://wiki.jikexueyuan.com/project/simple-python-course/)
+    - 《父与子的编程之旅:与小卡特一起学Python》[中文版](https://www.amazon.cn/%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6%C2%B7%E7%88%B6%E4%B8%8E%E5%AD%90%E7%9A%84%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%97%85-%E4%B8%8E%E5%B0%8F%E5%8D%A1%E7%89%B9%E4%B8%80%E8%B5%B7%E5%AD%A6Python-%E6%A1%91%E5%BE%B7/dp/B00PG0MMLO)
+    - 《趣学Python编程》[中文版](https://www.amazon.cn/%E8%B6%A3%E5%AD%A6Python%E7%BC%96%E7%A8%8B-%E5%B8%83%E9%87%8C%E6%A0%BC%E6%96%AF/dp/B00IM56I5Q)
+    - 《"笨办法"学Python》[中文第三版](https://www.amazon.cn/%E5%AD%A6Python-%E8%82%96/dp/B00P6OJ0TC) / [在线](https://flyouting.gitbooks.io/learn-python-the-hard-way-cn/content/)
+    - 《Python Programming for the Absolute Beginner》
+    - 《编程导论》[中文版](https://www.amazon.cn/%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA-%E7%BE%8E-%E8%B0%B7%E6%B3%B0%E6%A0%BC/dp/B00W34DZ1M)
 
-## 入门
-- 《Python基础教程》[中文第二版](https://www.amazon.cn/%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6-Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B-%E8%B5%AB%E7%89%B9%E5%85%B0/dp/B00KAFX65Q)
-- 《像计算机科学家一样思考Python》[中文版](https://www.amazon.cn/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83Python-%E5%94%90%E5%B0%BC/dp/B00EEDI2X6)
-- 《Python学习手册》[中文第四版](https://www.amazon.cn/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C-%E9%B2%81%E7%89%B9%E5%85%B9/dp/B004TUJ7A6)
-- 《Python核心编程》[中文第二版](https://www.amazon.cn/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B-%E4%B8%98%E6%81%A9/dp/B001BKVXOA)
+- 入门
+    - 《Python基础教程》[中文第二版](https://www.amazon.cn/%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6-Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B-%E8%B5%AB%E7%89%B9%E5%85%B0/dp/B00KAFX65Q)
+    - 《像计算机科学家一样思考Python》[中文版](https://www.amazon.cn/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83Python-%E5%94%90%E5%B0%BC/dp/B00EEDI2X6)
+    - 《Python学习手册》[中文第四版](https://www.amazon.cn/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C-%E9%B2%81%E7%89%B9%E5%85%B9/dp/B004TUJ7A6)
+    - 《Python核心编程》[中文第二版](https://www.amazon.cn/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B-%E4%B8%98%E6%81%A9/dp/B001BKVXOA)
 
-## 进阶
-- 《Python高手之路》[中文版](https://www.amazon.cn/Python%E9%AB%98%E6%89%8B%E4%B9%8B%E8%B7%AF-%E6%B3%95-%E6%9C%B1%E5%88%A9%E5%AE%89-%E4%B8%B9%E4%B9%94/dp/B00X65PEFC)
-- 《Python编程实战:运用设计模式、并发和程序库创建高质量程序》[中文版](https://www.amazon.cn/dp/B00MHDPIJ6)
-- 《Python高级编程》[中文版](https://book.douban.com/subject/4212921/)
-- 《Programming Python》
-- 《Python应用核心编程》
-- 《Python进阶》[中文版](https://eastlakeside.gitbooks.io/interpy-zh/content/)
-- 《编写高质量代码:改善Python程序的91个建议》[中文版](https://www.amazon.cn/Effective%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BB%A3%E7%A0%81-%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE-%E5%BC%A0%E9%A2%96/dp/B00KYFJTP8)
+- 进阶
+    - 《Python高手之路》[中文版](https://www.amazon.cn/Python%E9%AB%98%E6%89%8B%E4%B9%8B%E8%B7%AF-%E6%B3%95-%E6%9C%B1%E5%88%A9%E5%AE%89-%E4%B8%B9%E4%B9%94/dp/B00X65PEFC)
+    - 《Python编程实战:运用设计模式、并发和程序库创建高质量程序》[中文版](https://www.amazon.cn/dp/B00MHDPIJ6)
+    - 《Python高级编程》[中文版](https://book.douban.com/subject/4212921/)
+    - 《Programming Python》
+    - 《Python应用核心编程》
+    - 《Python进阶》[中文版](https://eastlakeside.gitbooks.io/interpy-zh/content/)
+    - 《编写高质量代码:改善Python程序的91个建议》[中文版](https://www.amazon.cn/Effective%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BB%A3%E7%A0%81-%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE-%E5%BC%A0%E9%A2%96/dp/B00KYFJTP8)
 
-## 参考
-- 《Python标准库》[中文版](https://book.douban.com/subject/10773324/)
-- 《Python Cookbook》[中文第三版](https://www.amazon.cn/Python-Cookbook/dp/B003LPO4KS) / [在线](http://python3-cookbook.readthedocs.org/zh_CN/latest/) / [PDF 第三版](https://github.com/Junnplus/awesome-python-books/blob/master/PDF/python-cookbook-3rd-zh_cn.pdf)
-- 《Python参考手册》[中文第四版](https://book.douban.com/subject/5401851/)
-- 《Python in a Nutshell》
+- 高阶
+    - 《Python源码剖析》
+    - 《高性能Python》
 
-## 高阶
-- 《Python源码剖析》
-- 《高性能Python》
+- 参考
+    - 《Python标准库》[中文版](https://book.douban.com/subject/10773324/)
+    - 《Python Cookbook》[中文第三版](https://www.amazon.cn/Python-Cookbook/dp/B003LPO4KS) / [在线](http://python3-cookbook.readthedocs.org/zh_CN/latest/) / [PDF 第三版](https://github.com/Junnplus/awesome-python-books/blob/master/PDF/python-cookbook-3rd-zh_cn.pdf)
+    - 《Python参考手册》[中文第四版](https://book.douban.com/subject/5401851/)
+    - 《Python in a Nutshell》
 
 ## 算法
 - 《Python算法教程》[中文版](https://www.amazon.cn/Python%E7%AE%97%E6%B3%95%E6%95%99%E7%A8%8B-%E6%8C%AA%E5%A8%81-%E8%B5%AB%E7%89%B9%E5%85%B0/dp/B019NB0VCI)
