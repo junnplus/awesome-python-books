@@ -59,6 +59,9 @@
 - *SciPy and NumPy: An Overview for Developers* [English Edition](http://www.amazon.com/SciPy-NumPy-Developers-Eli-Bressert/dp/1449305466)
 - *NumPy Beginner's Guide* [English 3rd Edition](http://www.amazon.com/Numpy-Beginners-Guide-Ivan-Idris/dp/1785281968) / [English 2nd Edition](http://www.amazon.com/NumPy-Beginners-Guide-Second-Edition/dp/1782166084)
 
+## Security
+- *Black Hat Python: Python Programming for Hackers and Pentesters* [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
+
 ## Web Development
 - *Flask Web Development: Developing Web Applications with Python* [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
 - *Test-Driven Development with Python* [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)

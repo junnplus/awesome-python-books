@@ -59,6 +59,9 @@
 - 《SciPy and NumPy:An Overview for Developers》
 - 《Python数据分析基础教程:NumPy学习指南》[中文第二版](https://www.amazon.cn/Python数据分析基础教程-NumPy学习指南-伊德里斯/dp/B00HLA8U86)
 
+## 安全
+- 《Python黑帽子:黑客与渗透测试编程之道》[中文版](https://www.amazon.cn/Python%E9%BB%91%E5%B8%BD%E5%AD%90-%E9%BB%91%E5%AE%A2%E4%B8%8E%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E7%BC%96%E7%A8%8B%E4%B9%8B%E9%81%93-%E5%A1%9E%E8%8C%A8/dp/B013KKCLE4)
+
 ## WEB 开发
 - 《Flask Web开发：基于Python的Web应用开发实战》[中文版](https://www.amazon.cn/Flask-Web%E5%BC%80%E5%8F%91-%E5%9F%BA%E4%BA%8EPython%E7%9A%84Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%A0%BC%E6%9E%97%E5%B8%83%E6%88%88/dp/B00QT2TQCG)
 - 《Python Web开发：测试驱动方法》[中文版](https://www.amazon.cn/Python-Web%E5%BC%80%E5%8F%91-%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95-%E7%8F%80%E8%A5%BF%E7%93%A6%E5%B0%94/dp/B016I9T8SQ)
