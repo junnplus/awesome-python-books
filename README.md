@@ -2,7 +2,7 @@
 
 > Directory of Python books
 
-## Awesome Python Books
+## Grammar
 - Zero Basis
     - *A Byte of Python* [English Edition](http://www.amazon.com/Byte-Python-Swaroop-C-H/dp/1514828146) / [Online](http://python.swaroopch.com/)
     - *Hello World!: Computer Programming for Kids and Other Beginners* [English 2nd Edition](http://www.amazon.com/Hello-World-Computer-Programming-Beginners/dp/1617290920)
