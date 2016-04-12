@@ -56,6 +56,7 @@
 - 《Python网络编程攻略》[中文版](https://www.amazon.cn/%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6-Python%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E6%94%BB%E7%95%A5-%E8%90%A8%E5%8D%A1%E5%B0%94/dp/B00PUP2IWS)
 
 ## 科学与数据分析
+- 《数据科学入门》[中文版](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01DLBQPQC)
 - 《利用Python进行数据分析》[中文版](https://www.amazon.cn/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-%E9%BA%A6%E9%87%91%E5%B0%BC/dp/B00GHGZLWS)
 - 《SciPy and NumPy:An Overview for Developers》
 - 《Python数据分析基础教程:NumPy学习指南》[中文第二版](https://www.amazon.cn/Python数据分析基础教程-NumPy学习指南-伊德里斯/dp/B00HLA8U86)

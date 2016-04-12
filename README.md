@@ -56,6 +56,7 @@
 - *Python Network Programming Cookbook* [English Edition](http://www.amazon.com/Python-Network-Programming-Cookbook-Faruque/dp/1849513465)
 
 ## Science and Data Analysis
+- *Data Science From Scratch: First Principles with Python* [English Edition](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
 - *Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython* [English Edition](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793)
 - *SciPy and NumPy: An Overview for Developers* [English Edition](http://www.amazon.com/SciPy-NumPy-Developers-Eli-Bressert/dp/1449305466)
 - *NumPy Beginner's Guide* [English 3rd Edition](http://www.amazon.com/Numpy-Beginners-Guide-Ivan-Idris/dp/1785281968) / [English 2nd Edition](http://www.amazon.com/NumPy-Beginners-Guide-Second-Edition/dp/1782166084)
