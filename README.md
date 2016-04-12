@@ -2,6 +2,19 @@
 
 > Directory of Python books
 
+## Resources
+- [Grammar](#grammar)
+- [Algorithm](#algorithm)
+- [Game Development](#game-development)
+- [Hardware](#hardware)
+- [Machine Learning](#machine-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Network](#network)
+- [Science and Data Analysis](#science-and-data-analysis)
+- [Security](#security)
+- [Web Development](#web-development)
+- [Web Scraping](#web-scraping)
+
 ## Grammar
 - Zero Basis
     - *A Byte of Python* by Swaroop C H [English Edition](http://www.amazon.com/Byte-Python-Swaroop-C-H/dp/1514828146) / [Online](http://python.swaroopch.com/)
@@ -71,7 +84,7 @@
 - *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
 
-## Web Scrapping
+## Web Scraping
 - *Web Scraping with Python: A Comprehensive Guide to Data Collection Solutions* by Ryan Mitchell [English Edition](http://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491910291)
 
 ## Other Awesome Lists
