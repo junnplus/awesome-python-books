@@ -48,6 +48,7 @@
 ## 机器学习
 - 《Building Machine Learning Systems with Python》
 - 《机器学习实战》[中文版](https://www.amazon.cn/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AE%9E%E6%88%98-%E5%93%88%E6%9E%97%E9%A1%BF/dp/B00D747PTK)
+- 《集体智慧编程》[中文版](https://www.amazon.cn/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B-%E6%89%98%E6%AF%94%C2%B7%E8%A5%BF%E6%A0%BC%E5%85%B0/dp/B00UI93JD8/ref=sr_1_1?ie=UTF8&qid=1460601775&sr=8-1&keywords=%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B)
 
 ## 自然语言处理
 - 《Python自然语言处理》[中文版](https://www.amazon.cn/Python%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86-%E4%BC%AF%E5%BE%B7/dp/B00L7IV7C4)
