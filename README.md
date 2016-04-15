@@ -12,6 +12,7 @@
 - [Network](#network)
 - [Science and Data Analysis](#science-and-data-analysis)
 - [Security](#security)
+- [System Administration](#system-administration)
 - [Web Development](#web-development)
 - [Web Scraping](#web-scraping)
 
@@ -61,7 +62,7 @@
 ## Machine Learning
 - *Building Machine Learning Systems with Python* by Luis Pedro Coelho & Willi Richert [English 2nd Edition](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1784392774)
 - *Machine Learning in Action* by Peter Harrington [English Edition](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181)
-- *Programming Collective Intelligence: Building Smart Web 2.0 Applications* by Toby Segaran[English Edition](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325/ref=sr_1_1?ie=UTF8&qid=1460599941&sr=8-1&keywords=intelligence+collective)
+- *Programming Collective Intelligence: Building Smart Web 2.0 Applications* by Toby Segaran [English Edition](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
 
 ## Natural Language Processing
 - *Natural Language Processing with Python* by Steven Bird & Ewan Klein & Edward Loper [English Edition](http://www.amazon.com/Natural-Language-Processing-Python-Steven/dp/0596516495)
@@ -80,6 +81,9 @@
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
 - *Gray Hat Python: Python Programming for Hackers and Reverse Engineers* by Justin Seitz[English Edition](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
 - *Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers* by TJ O'Connor [English Edition](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+
+## System Administration
+- *Python for Unix and Linux System Administration* by Noah Gift & Jeremy Jones [English Edition](http://www.amazon.com/Python-Unix-Linux-System-Administration/dp/0596515820)
 
 ## Web Development
 - *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
