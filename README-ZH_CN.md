@@ -27,8 +27,9 @@
     - 《编写高质量代码:改善Python程序的91个建议》[中文版](https://www.amazon.cn/Effective%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BB%A3%E7%A0%81-%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE-%E5%BC%A0%E9%A2%96/dp/B00KYFJTP8)
 
 - 高阶
-    - 《Python源码剖析》
     - 《高性能Python》
+    - 《Cython - A Guide for Python Programmers》
+    - 《Python源码剖析》
 
 - 参考
     - 《Python标准库》[中文版](https://book.douban.com/subject/10773324/)

@@ -42,6 +42,7 @@
 
 - Advanced
     - *High Performance Python: Practical Performant Programming for Humans* by Micha Gorelick [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
+    - *Cython - A Guide for Python Programmers* by Kurt W. Smith [English Edition](http://www.amazon.com/Cython-Kurt-W-Smith/dp/1491901551)
     - *Python 源码剖析*
 
 - References
