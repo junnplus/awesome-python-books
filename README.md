@@ -80,7 +80,7 @@
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
-- *Gray Hat Python: Python Programming for Hackers and Reverse Engineers* by Justin Seitz[English Edition](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
+- *Gray Hat Python: Python Programming for Hackers and Reverse Engineers* by Justin Seitz [English Edition](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
 - *Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers* by TJ O'Connor [English Edition](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
 ## System Administration
