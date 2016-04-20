@@ -40,6 +40,7 @@
     - *Core Python Applications Programming* by Wesley Chun [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
     - *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
     - *Writing Solid Python Code 91 Suggestions to Improve Your Python Program*
+    - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
 
 - Advanced
     - *High Performance Python: Practical Performant Programming for Humans* by Micha Gorelick [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
