@@ -13,6 +13,7 @@
 - [Science and Data Analysis](#science-and-data-analysis)
 - [Security](#security)
 - [System Administration](#system-administration)
+- [Testing](#testing)
 - [Web Development](#web-development)
 - [Web Scraping](#web-scraping)
 
@@ -86,8 +87,13 @@
 ## System Administration
 - *Python for Unix and Linux System Administration* by Noah Gift & Jeremy Jones [English Edition](http://www.amazon.com/Python-Unix-Linux-System-Administration/dp/0596515820)
 
+## Testing
+
+- *Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing* by David Sale [English Edition](http://www.amazon.com/Testing-Python-Applying-Unit-Acceptance/dp/1118901223/)
+
 ## Web Development
 - *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
+- *Test-Driven Development with Django* by Kevin Harvey [English Edition](http://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey-ebook/dp/B00YSILNJW/)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
 
 ## Web Scraping
