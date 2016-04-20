@@ -13,6 +13,7 @@
 - [Science and Data Analysis](#science-and-data-analysis)
 - [Security](#security)
 - [System Administration](#system-administration)
+- [Testing](#testing)
 - [Web Development](#web-development)
 - [Web Scraping](#web-scraping)
 
@@ -66,6 +67,7 @@
 - *Programming Collective Intelligence: Building Smart Web 2.0 Applications* by Toby Segaran [English Edition](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
 
 ## Natural Language Processing
+- *Mastering Python Regular Expressions* by Felix Lopez & Victor Romero [English Edition](http://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/)
 - *Natural Language Processing with Python* by Steven Bird & Ewan Klein & Edward Loper [English Edition](http://www.amazon.com/Natural-Language-Processing-Python-Steven/dp/0596516495)
 
 ## Network
@@ -80,14 +82,19 @@
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
-- *Gray Hat Python: Python Programming for Hackers and Reverse Engineers* by Justin Seitz[English Edition](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
+- *Gray Hat Python: Python Programming for Hackers and Reverse Engineers* by Justin Seitz [English Edition](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
 - *Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers* by TJ O'Connor [English Edition](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
 ## System Administration
 - *Python for Unix and Linux System Administration* by Noah Gift & Jeremy Jones [English Edition](http://www.amazon.com/Python-Unix-Linux-System-Administration/dp/0596515820)
 
+## Testing
+
+- *Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing* by David Sale [English Edition](http://www.amazon.com/Testing-Python-Applying-Unit-Acceptance/dp/1118901223/)
+
 ## Web Development
 - *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
+- *Test-Driven Development with Django* by Kevin Harvey [English Edition](http://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey-ebook/dp/B00YSILNJW/)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
 
 ## Web Scraping
