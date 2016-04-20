@@ -89,6 +89,7 @@
 ## Web Development
 - *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
+- *Real Python: Real Python teaches programming and web development through hands-on, interesting examples that are useful and fun* by Fletcher Heisler, Michael Herman, and Jeremy Johnson [English Edition](https://realpython.com/)
 
 ## Web Scraping
 - *Web Scraping with Python: A Comprehensive Guide to Data Collection Solutions* by Ryan Mitchell [English Edition](http://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491910291)
