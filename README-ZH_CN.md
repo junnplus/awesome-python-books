@@ -25,6 +25,8 @@
     - 《Python应用核心编程》
     - 《Python进阶》[中文版](https://eastlakeside.gitbooks.io/interpy-zh/content/)
     - 《编写高质量代码:改善Python程序的91个建议》[中文版](https://www.amazon.cn/Effective%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BB%A3%E7%A0%81-%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE-%E5%BC%A0%E9%A2%96/dp/B00KYFJTP8)
+    - 《流畅的Python》
+    - 《Learning Python Design Patterns》
 
 - 高阶
     - 《高性能Python》
@@ -52,6 +54,7 @@
 - 《集体智慧编程》[中文版](https://www.amazon.cn/%E9%9B%86%E4%BD%93%E6%99%BA%E6%85%A7%E7%BC%96%E7%A8%8B-%E6%89%98%E6%AF%94%C2%B7%E8%A5%BF%E6%A0%BC%E5%85%B0/dp/B00UI93JD8)
 
 ## 自然语言处理
+- 《Mastering Python Regular Expressions》
 - 《Python自然语言处理》[中文版](https://www.amazon.cn/Python%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86-%E4%BC%AF%E5%BE%B7/dp/B00L7IV7C4)
 
 ## 网络编程
@@ -72,8 +75,12 @@
 ## 系统管理
 - 《Python UNIX 和 Linux 系统管理指南》[中文版](https://book.douban.com/subject/4031965/)
 
+## 测试
+- 《Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing》
+
 ## WEB 开发
 - 《Flask Web开发：基于Python的Web应用开发实战》[中文版](https://www.amazon.cn/Flask-Web%E5%BC%80%E5%8F%91-%E5%9F%BA%E4%BA%8EPython%E7%9A%84Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%A0%BC%E6%9E%97%E5%B8%83%E6%88%88/dp/B00QT2TQCG)
+- 《Test-Driven Development with Django》
 - 《Python Web开发：测试驱动方法》[中文版](https://www.amazon.cn/Python-Web%E5%BC%80%E5%8F%91-%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95-%E7%8F%80%E8%A5%BF%E7%93%A6%E5%B0%94/dp/B016I9T8SQ)
 
 ## WEB 数据抓取
