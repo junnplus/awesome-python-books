@@ -96,6 +96,8 @@
 
 ## Web Development
 - *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
+- *Full Stack Python* by Matt Makai [English Edition](https://www.fullstackpython.com/)
+- *Full Stack Python Guide to Deployments* by Matt Makai [English Edition](http://www.deploypython.com/)
 - *Test-Driven Development with Django* by Kevin Harvey [English Edition](http://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey-ebook/dp/B00YSILNJW/)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
 
