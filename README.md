@@ -18,41 +18,42 @@
 - [Web Scraping](#web-scraping)
 
 ## Grammar
-- Zero Basis
-    - *A Byte of Python* by Swaroop C H [English Edition](http://www.amazon.com/Byte-Python-Swaroop-C-H/dp/1514828146) / [Online](http://python.swaroopch.com/)
-    - *Hello World!: Computer Programming for Kids and Other Beginners* by Warren Sande & Carter Sande [English 2nd Edition](http://www.amazon.com/Hello-World-Computer-Programming-Beginners/dp/1617290920)
-    - *Python for Kids: A Playful Introduction to Programming* by Jason R. Briggs [English Edition](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
-    - *Learn Python the Hard Way* by Zed A. Shaw [English 3rd Edition](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) / [Online](http://learnpythonthehardway.org/book/)
-    - *Python Programming for the Absolute Beginner* by Michael Dawson [English 2nd Edition](http://www.amazon.com/Python-Programming-Absolute-Beginner-Edition/dp/1598631128)
-    - *Introduction to Computation and Programming Using Python* by John V. Guttag [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
 
-- Primary
-    - *Beginning Python: from Novice to Professional* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
-    - *Think Python: How to Think Like a Computer Scientist* by Allen B. Downey [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
-    - *Learning Python* by Mark Lutz [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
-    - *Core Python Programming* by Wesley Chun [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
+### Zero Basis
+- *A Byte of Python* by Swaroop C H [English Edition](http://www.amazon.com/Byte-Python-Swaroop-C-H/dp/1514828146) / [Online](http://python.swaroopch.com/)
+- *Hello World!: Computer Programming for Kids and Other Beginners* by Warren Sande & Carter Sande [English 2nd Edition](http://www.amazon.com/Hello-World-Computer-Programming-Beginners/dp/1617290920)
+- *Python for Kids: A Playful Introduction to Programming* by Jason R. Briggs [English Edition](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
+- *Learn Python the Hard Way* by Zed A. Shaw [English 3rd Edition](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) / [Online](http://learnpythonthehardway.org/book/)
+- *Python Programming for the Absolute Beginner* by Michael Dawson [English 2nd Edition](http://www.amazon.com/Python-Programming-Absolute-Beginner-Edition/dp/1598631128)
+- *Introduction to Computation and Programming Using Python* by John V. Guttag [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
 
-- Intermediate
-    - *The Hacker's Guide to Python* by Julien Danjou [English Edition](http://www.amazon.com/Hackers-Guide-Python-Julien-Danjou/dp/1304819248)
-    - *Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns* by Mark Summerfield [English Edition](http://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
-    - *Expert Python Programming: Best practices for designing, coding, and distributing your Python software* by Tarek Ziadé [English Edition](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
-    - *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
-    - *Core Python Applications Programming* by Wesley Chun [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
-    - *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
-    - *Writing Solid Python Code 91 Suggestions to Improve Your Python Program*
-    - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
-    - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
+### Primary
+- *Beginning Python: from Novice to Professional* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
+- *Think Python: How to Think Like a Computer Scientist* by Allen B. Downey [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
+- *Learning Python* by Mark Lutz [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
+- *Core Python Programming* by Wesley Chun [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
 
-- Advanced
-    - *High Performance Python: Practical Performant Programming for Humans* by Micha Gorelick [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
-    - *Cython - A Guide for Python Programmers* by Kurt W. Smith [English Edition](http://www.amazon.com/Cython-Kurt-W-Smith/dp/1491901551)
-    - *Python 源码剖析*
+### Intermediate
+- *The Hacker's Guide to Python* by Julien Danjou [English Edition](http://www.amazon.com/Hackers-Guide-Python-Julien-Danjou/dp/1304819248)
+- *Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns* by Mark Summerfield [English Edition](http://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
+- *Expert Python Programming: Best practices for designing, coding, and distributing your Python software* by Tarek Ziadé [English Edition](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
+- *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
+- *Core Python Applications Programming* by Wesley Chun [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
+- *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
+- *Writing Solid Python Code 91 Suggestions to Improve Your Python Program*
+- *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
+- *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
 
-- References
-    - *The Python Standard Library by Example* by Doug Hellmann [English Edition](http://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0321767349)
-    - *Python Cookbook* by David Beazley & Brian K. Jones [English 3rd Edition](http://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)
-    - *Python Essential Reference* by David M. Beazley [English 4th Edition](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786)
-    - *Python in a Nutshell* by Alex Martelli [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
+### Advanced
+- *High Performance Python: Practical Performant Programming for Humans* by Micha Gorelick [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
+- *Cython - A Guide for Python Programmers* by Kurt W. Smith [English Edition](http://www.amazon.com/Cython-Kurt-W-Smith/dp/1491901551)
+- *Python 源码剖析*
+
+### References
+- *The Python Standard Library by Example* by Doug Hellmann [English Edition](http://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0321767349)
+- *Python Cookbook* by David Beazley & Brian K. Jones [English 3rd Edition](http://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)
+- *Python Essential Reference* by David M. Beazley [English 4th Edition](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786)
+- *Python in a Nutshell* by Alex Martelli [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
 
 ## Algorithm
 - *Python Algorithms: Mastering Basic Algorithms in the Python Language* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
@@ -91,7 +92,6 @@
 - *Python for Unix and Linux System Administration* by Noah Gift & Jeremy Jones [English Edition](http://www.amazon.com/Python-Unix-Linux-System-Administration/dp/0596515820)
 
 ## Testing
-
 - *Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing* by David Sale [English Edition](http://www.amazon.com/Testing-Python-Applying-Unit-Acceptance/dp/1118901223/)
 
 ## Web Development
