@@ -41,6 +41,7 @@
     - *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
     - *Writing Solid Python Code 91 Suggestions to Improve Your Python Program*
     - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
+    - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
 
 - Advanced
     - *High Performance Python: Practical Performant Programming for Humans* by Micha Gorelick [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
