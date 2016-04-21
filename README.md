@@ -2,7 +2,7 @@
 
 > Directory of Python books
 
-## Resources
+## Table of Contents
 - [Grammar](#grammar)
 - [Algorithm](#algorithm)
 - [Game Development](#game-development)
