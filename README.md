@@ -66,6 +66,7 @@
 - *Building Machine Learning Systems with Python* by Luis Pedro Coelho & Willi Richert [English 2nd Edition](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1784392774)
 - *Machine Learning in Action* by Peter Harrington [English Edition](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181)
 - *Programming Collective Intelligence: Building Smart Web 2.0 Applications* by Toby Segaran [English Edition](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
+- *Python Machine Learning* by Sebastian Raschka [English Edition](http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=)
 
 ## Natural Language Processing
 - *Mastering Python Regular Expressions* by Felix Lopez & Victor Romero [English Edition](http://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/)
