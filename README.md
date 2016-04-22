@@ -20,10 +20,10 @@
 ## Grammar
 
 ### Zero Basis
-- *A Byte of Python* by Swaroop C H [English Edition](http://www.amazon.com/Byte-Python-Swaroop-C-H/dp/1514828146) / [Online](http://python.swaroopch.com/)
+- *A Byte of Python* by Swaroop C H [English Edition](http://www.amazon.com/Byte-Python-Swaroop-C-H/dp/1514828146)
 - *Hello World!: Computer Programming for Kids and Other Beginners* by Warren Sande & Carter Sande [English 2nd Edition](http://www.amazon.com/Hello-World-Computer-Programming-Beginners/dp/1617290920)
 - *Python for Kids: A Playful Introduction to Programming* by Jason R. Briggs [English Edition](http://www.amazon.com/Python-Kids-Playful-Introduction-Programming/dp/1593274076)
-- *Learn Python the Hard Way* by Zed A. Shaw [English 3rd Edition](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914) / [Online](http://learnpythonthehardway.org/book/)
+- *Learn Python the Hard Way* by Zed A. Shaw [English 3rd Edition](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914)
 - *Python Programming for the Absolute Beginner* by Michael Dawson [English 2nd Edition](http://www.amazon.com/Python-Programming-Absolute-Beginner-Edition/dp/1598631128)
 - *Introduction to Computation and Programming Using Python* by John V. Guttag [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
 
@@ -47,7 +47,6 @@
 ### Advanced
 - *High Performance Python: Practical Performant Programming for Humans* by Micha Gorelick [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
 - *Cython - A Guide for Python Programmers* by Kurt W. Smith [English Edition](http://www.amazon.com/Cython-Kurt-W-Smith/dp/1491901551)
-- *Python 源码剖析*
 
 ### References
 - *The Python Standard Library by Example* by Doug Hellmann [English Edition](http://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0321767349)
@@ -59,7 +58,7 @@
 - *Python Algorithms: Mastering Basic Algorithms in the Python Language* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
 
 ## Game Development
-- *Making Games with Python & Pygame* by Al Sweigart [English Edition](http://www.amazon.com/Making-Games-Python-Pygame-Sweigart/dp/1469901730) / [Online](http://inventwithpython.com/pygame/chapters/)
+- *Making Games with Python & Pygame* by Al Sweigart [English Edition](http://www.amazon.com/Making-Games-Python-Pygame-Sweigart/dp/1469901730)
 
 ## Hardware
 - *Real World Instrumentation with Python: Automated Data Acquisition and Control Systems* by John M. Hughes [English Edition](http://www.amazon.com/Real-World-Instrumentation-Python-Acquisition/dp/0596809565)
