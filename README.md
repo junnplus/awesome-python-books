@@ -40,7 +40,7 @@
 - *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
 - *Core Python Applications Programming* by Wesley Chun [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
 - *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
-- *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
+- *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008). Translations: [Portuguese Edition](https://www.amazon.com.br/Python-Fluente-Luciano-Ramalho/dp/857522462X/), [Polish Edition](https://www.amazon.co.uk/Zaawansowany-Python-Luciano-Ramalho/dp/837541171X/), [Chinese Edition](http://www.books.com.tw/products/0010706172)
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
 
 ### Advanced
