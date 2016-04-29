@@ -12,6 +12,7 @@
 - [Network](#network)
 - [Science and Data Analysis](#science-and-data-analysis)
 - [Security](#security)
+- [SQL and ORMs](#sql-and-orms)
 - [System Administration](#system-administration)
 - [Testing](#testing)
 - [Web Development](#web-development)
@@ -66,6 +67,7 @@
 - *Building Machine Learning Systems with Python* by Luis Pedro Coelho & Willi Richert [English 2nd Edition](http://www.amazon.com/Building-Machine-Learning-Systems-Python/dp/1784392774)
 - *Machine Learning in Action* by Peter Harrington [English Edition](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181)
 - *Programming Collective Intelligence: Building Smart Web 2.0 Applications* by Toby Segaran [English Edition](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
+- *Python Machine Learning* by Sebastian Raschka [English Edition](http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=)
 
 ## Natural Language Processing
 - *Mastering Python Regular Expressions* by Felix Lopez & Victor Romero [English Edition](http://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/)
@@ -85,6 +87,9 @@
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
 - *Gray Hat Python: Python Programming for Hackers and Reverse Engineers* by Justin Seitz [English Edition](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
 - *Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers* by TJ O'Connor [English Edition](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+
+## SQL and ORMs
+- *Essential SQLAlchemy* by Jason Myers [English Edition](http://www.amazon.com/Essential-SQLAlchemy-Jason-Myers/dp/149191646X/)
 
 ## System Administration
 - *Python for Unix and Linux System Administration* by Noah Gift & Jeremy Jones [English Edition](http://www.amazon.com/Python-Unix-Linux-System-Administration/dp/0596515820)
