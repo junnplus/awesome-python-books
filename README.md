@@ -12,6 +12,7 @@
 - [Network](#network)
 - [Science and Data Analysis](#science-and-data-analysis)
 - [Security](#security)
+- [SQL and ORMs](#sql-and-orms)
 - [System Administration](#system-administration)
 - [Testing](#testing)
 - [Web Development](#web-development)
@@ -86,6 +87,9 @@
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
 - *Gray Hat Python: Python Programming for Hackers and Reverse Engineers* by Justin Seitz [English Edition](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
 - *Violent Python: A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers* by TJ O'Connor [English Edition](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
+
+## SQL and ORMs
+- *Essential SQLAlchemy* by Jason Myers [English Edition](http://www.amazon.com/Essential-SQLAlchemy-Jason-Myers/dp/149191646X/)
 
 ## System Administration
 - *Python for Unix and Linux System Administration* by Noah Gift & Jeremy Jones [English Edition](http://www.amazon.com/Python-Unix-Linux-System-Administration/dp/0596515820)
