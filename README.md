@@ -41,7 +41,7 @@
 - *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
 - *Core Python Applications Programming* by Wesley Chun [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
 - *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
-- *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
+- *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008). Translations: [Portuguese Edition](https://www.amazon.com.br/Python-Fluente-Luciano-Ramalho/dp/857522462X/), [Polish Edition](https://www.amazon.co.uk/Zaawansowany-Python-Luciano-Ramalho/dp/837541171X/), [Chinese Edition](http://www.books.com.tw/products/0010706172)
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
 
 ### Advanced
@@ -50,7 +50,7 @@
 
 ### References
 - *The Python Standard Library by Example* by Doug Hellmann [English Edition](http://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0321767349)
-- *Python Cookbook* by David Beazley & Brian K. Jones [English 3rd Edition](http://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)
+- *Python Cookbook* by David Beazley & Brian K. Jones [English 3rd Edition](http://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377). Translations: [Portuguese Edition](https://www.amazon.com.br/Python-Cookbook-David-Beazley/dp/8575223321)
 - *Python Essential Reference* by David M. Beazley [English 4th Edition](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786)
 - *Python in a Nutshell* by Alex Martelli [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
 
