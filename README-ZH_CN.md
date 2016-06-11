@@ -15,7 +15,7 @@
     - 《Python基础教程》[中文第二版](https://www.amazon.cn/%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6-Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B-%E8%B5%AB%E7%89%B9%E5%85%B0/dp/B00KAFX65Q)
     - 《像计算机科学家一样思考Python》[中文版](https://www.amazon.cn/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83Python-%E5%94%90%E5%B0%BC/dp/B00EEDI2X6)
     - 《Python学习手册》[中文第四版](https://www.amazon.cn/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C-%E9%B2%81%E7%89%B9%E5%85%B9/dp/B004TUJ7A6)
-    - 《Python核心编程》[中文第二版](https://www.amazon.cn/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B-%E4%B8%98%E6%81%A9/dp/B001BKVXOA)
+    - 《Python核心编程》[中文第二版](https://www.amazon.cn/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B-%E4%B8%98%E6%81%A9/dp/B001BKVXOA) / [中文第三版](https://www.amazon.cn/Python/dp/B01FQAS0KK)
 
 - 进阶
     - 《Python高手之路》[中文版](https://www.amazon.cn/Python%E9%AB%98%E6%89%8B%E4%B9%8B%E8%B7%AF-%E6%B3%95-%E6%9C%B1%E5%88%A9%E5%AE%89-%E4%B8%B9%E4%B9%94/dp/B00X65PEFC)
