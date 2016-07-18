@@ -45,6 +45,7 @@
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
 
 ### Advanced
+- *Mastering Python High Performance* by Fernando Doglio [English Edition](https://www.amazon.com/Mastering-Python-Performance-Fernando-Doglio/dp/1783989300)
 - *High Performance Python: Practical Performant Programming for Humans* by Micha Gorelick [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
 - *Cython - A Guide for Python Programmers* by Kurt W. Smith [English Edition](http://www.amazon.com/Cython-Kurt-W-Smith/dp/1491901551)
 
