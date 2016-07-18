@@ -29,6 +29,7 @@
     - 《Learning Python Design Patterns》
 
 - 高阶
+    - 《Python性能分析与优化》[中文版](https://www.amazon.cn/Python%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E4%B8%8E%E4%BC%98%E5%8C%96-%E8%B4%B9%E5%B0%94%E5%8D%97%E5%A4%9A%C2%B7%E5%A4%9A%E6%A0%BC%E9%87%8C%E5%A5%A5/dp/B01HB0KNCG)
     - 《高性能Python》
     - 《Cython - A Guide for Python Programmers》
     - 《Python源码剖析》
