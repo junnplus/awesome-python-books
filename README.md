@@ -58,6 +58,9 @@
 ## Algorithm
 - *Python Algorithms: Mastering Basic Algorithms in the Python Language* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
 
+## Complexity Science
+- *Think Complexity: Complexity Science and Computational Modeling* by Allen B. Downey [English Edition](https://www.amazon.com/Think-Complexity-Science-Computational-Modeling/dp/1449314635)
+
 ## Game Development
 - *Making Games with Python & Pygame* by Al Sweigart [English Edition](http://www.amazon.com/Making-Games-Python-Pygame-Sweigart/dp/1469901730)
 
