@@ -43,6 +43,7 @@
 - *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
 - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
+- *Mastering Python Design Patterns* by Sakis Kasampalis [English Edition](https://www.amazon.com/Mastering-Python-Design-Patterns-Kasampalis/dp/1783989327)
 
 ### Advanced
 - *Mastering Python High Performance* by Fernando Doglio [English Edition](https://www.amazon.com/Mastering-Python-Performance-Fernando-Doglio/dp/1783989300)
