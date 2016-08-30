@@ -27,6 +27,7 @@
     - 《编写高质量代码:改善Python程序的91个建议》[中文版](https://www.amazon.cn/Effective%E7%B3%BB%E5%88%97%E4%B8%9B%E4%B9%A6-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8F%E4%BB%A3%E7%A0%81-%E6%94%B9%E5%96%84Python%E7%A8%8B%E5%BA%8F%E7%9A%8491%E4%B8%AA%E5%BB%BA%E8%AE%AE-%E5%BC%A0%E9%A2%96/dp/B00KYFJTP8)
     - 《流畅的Python》
     - 《Learning Python Design Patterns》
+    - 《精通 Python 设计模式》[中文版](https://www.amazon.cn/%E7%B2%BE%E9%80%9APython%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E8%8D%B7-%E8%90%A8%E5%9F%BA%E6%96%AF%C2%B7%E5%8D%A1%E8%90%A8%E5%A7%86%E5%B8%95%E9%87%8C%E6%96%AF/dp/B01ION3VW8)
 
 - 高阶
     - 《Python性能分析与优化》[中文版](https://www.amazon.cn/Python%E6%80%A7%E8%83%BD%E5%88%86%E6%9E%90%E4%B8%8E%E4%BC%98%E5%8C%96-%E8%B4%B9%E5%B0%94%E5%8D%97%E5%A4%9A%C2%B7%E5%A4%9A%E6%A0%BC%E9%87%8C%E5%A5%A5/dp/B01HB0KNCG)
