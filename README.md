@@ -87,6 +87,7 @@
 - *SciPy and NumPy: An Overview for Developers* by Eli Bressert [English Edition](http://www.amazon.com/SciPy-NumPy-Developers-Eli-Bressert/dp/1449305466)
 - *NumPy Beginner's Guide* by Ivan Idris [English 3rd Edition](http://www.amazon.com/Numpy-Beginners-Guide-Ivan-Idris/dp/1785281968) / [English 2nd Edition](http://www.amazon.com/NumPy-Beginners-Guide-Second-Edition/dp/1782166084)
 - *Python for Finance: Analyze Big Financial Data* by Yves Hilpisch [English Edition](http://www.amazon.com/Python-Finance-Analyze-Financial-Data/dp/1491945281)
+- *A Programmer's Guide to Data Mining* by Ron Zacharski [Online](http://guidetodatamining.com/)
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
