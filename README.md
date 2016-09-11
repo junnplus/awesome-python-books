@@ -106,6 +106,7 @@
 
 ## Web Development
 - *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
+- *Mastering Flask* by Jack Stouffer [English Edition](https://www.amazon.com/Mastering-Flask-Jack-Stouffer/dp/1784393657)
 - *Introduction to Tornado* by Michael Dory & Allison Parrish & Brendan Berg [English Edition](http://www.amazon.com/Introduction-Tornado-Michael-Dory/dp/1449309070)
 - *Test-Driven Development with Django* by Kevin Harvey [English Edition](http://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey-ebook/dp/B00YSILNJW/)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
