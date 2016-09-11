@@ -83,6 +83,7 @@
 
 ## WEB 开发
 - 《Flask Web开发：基于Python的Web应用开发实战》[中文版](https://www.amazon.cn/Flask-Web%E5%BC%80%E5%8F%91-%E5%9F%BA%E4%BA%8EPython%E7%9A%84Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98-%E6%A0%BC%E6%9E%97%E5%B8%83%E6%88%88/dp/B00QT2TQCG)
+- 《深入理解 Flask》[中文版](https://www.amazon.cn/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3-Flask-%E6%9D%B0%E5%85%8B%C2%B7%E5%8F%B2%E9%83%BD%E5%8D%8E/dp/B01IA9I2I4)
 - 《Introduction to Tornado》[中文版](http://wiki.jikexueyuan.com/project/introduction-tornado/)
 - 《Test-Driven Development with Django》
 - 《Python Web开发：测试驱动方法》[中文版](https://www.amazon.cn/Python-Web%E5%BC%80%E5%8F%91-%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8%E6%96%B9%E6%B3%95-%E7%8F%80%E8%A5%BF%E7%93%A6%E5%B0%94/dp/B016I9T8SQ)
