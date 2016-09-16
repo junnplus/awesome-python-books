@@ -18,6 +18,7 @@
     - 《Python核心编程》[中文第二版](https://www.amazon.cn/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B-%E4%B8%98%E6%81%A9/dp/B001BKVXOA) / [中文第三版](https://www.amazon.cn/Python/dp/B01FQAS0KK)
 
 - 进阶
+    - 《Python 3面向对象编程》[中文版](https://www.amazon.cn/Python-3%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B-%E8%BE%BE%E6%96%AF%E5%B8%9D%C2%B7%E8%8F%B2%E5%88%A9%E6%99%AE%E6%96%AF/dp/B010MG1S84)
     - 《Python高手之路》[中文版](https://www.amazon.cn/Python%E9%AB%98%E6%89%8B%E4%B9%8B%E8%B7%AF-%E6%B3%95-%E6%9C%B1%E5%88%A9%E5%AE%89-%E4%B8%B9%E4%B9%94/dp/B00X65PEFC)
     - 《Python编程实战:运用设计模式、并发和程序库创建高质量程序》[中文版](https://www.amazon.cn/dp/B00MHDPIJ6)
     - 《Python高级编程》[中文版](https://book.douban.com/subject/4212921/)
