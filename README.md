@@ -35,6 +35,7 @@
 - *Core Python Programming* by Wesley Chun [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
 
 ### Intermediate
+- *Python 3 Object-Oriented Programming* by Dusty Phillips [English 2nd Edition](https://www.amazon.com/Python-3-Object-Oriented-Programming-Second/dp/1784398780)
 - *The Hacker's Guide to Python* by Julien Danjou [English Edition](http://www.amazon.com/Hackers-Guide-Python-Julien-Danjou/dp/1304819248)
 - *Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns* by Mark Summerfield [English Edition](http://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
 - *Expert Python Programming: Best practices for designing, coding, and distributing your Python software* by Tarek Ziadé [English Edition](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
