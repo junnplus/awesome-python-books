@@ -75,6 +75,7 @@
 - *Machine Learning in Action* by Peter Harrington [English Edition](http://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181)
 - *Programming Collective Intelligence: Building Smart Web 2.0 Applications* by Toby Segaran [English Edition](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
 - *Python Machine Learning* by Sebastian Raschka [English Edition](http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=)
+- *Machine Learning: An Algorithmic Perspective* by Stephen Marsland [English 2nd Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/)
 
 ## Natural Language Processing
 - *Mastering Python Regular Expressions* by Felix Lopez & Victor Romero [English Edition](http://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/)
