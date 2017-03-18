@@ -10,6 +10,7 @@
     - 《"笨办法"学Python》[中文第三版](https://www.amazon.cn/%E5%AD%A6Python-%E8%82%96/dp/B00P6OJ0TC) / [在线](https://flyouting.gitbooks.io/learn-python-the-hard-way-cn/content/)
     - 《Python Programming for the Absolute Beginner》
     - 《编程导论》[中文版](https://www.amazon.cn/%E7%BC%96%E7%A8%8B%E5%AF%BC%E8%AE%BA-%E7%BE%8E-%E8%B0%B7%E6%B3%B0%E6%A0%BC/dp/B00W34DZ1M)
+    - 《跟老齐学Python》[中文版](https://www.amazon.cn/%E8%B7%9F%E8%80%81%E9%BD%90%E5%AD%A6Python-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A-%E9%BD%90%E4%BC%9F/dp/B01BVRFBQI/ref=sr_1_1?ie=UTF8&qid=1473133402&sr=8-1&keywords=%E8%B7%9F%E8%80%81%E9%BD%90%E5%AD%A6Python) / [在线](https://github.com/qiwsir/StarterLearningPython)
 
 - 入门
     - 《Python基础教程》[中文第二版](https://www.amazon.cn/%E5%9B%BE%E7%81%B5%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E4%B8%9B%E4%B9%A6-Python%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B-%E8%B5%AB%E7%89%B9%E5%85%B0/dp/B00KAFX65Q)
