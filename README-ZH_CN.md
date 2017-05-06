@@ -26,7 +26,7 @@
     - 《Python应用核心编程》
     - 《Python进阶》[中文版](https://eastlakeside.gitbooks.io/interpy-zh/content/)
     - 《Effective Python:编写高质量Python代码的59个有效方法》[中文版](https://www.amazon.cn/Effective-Python-%E7%BC%96%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8FPython%E4%BB%A3%E7%A0%81%E7%9A%8459%E4%B8%AA%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95-%E5%B8%83%E9%9B%B7%E7%89%B9%C2%B7%E6%96%AF%E6%8B%89%E7%89%B9%E9%87%91/dp/B01ASI36QS)
-    - 《流畅的Python》
+    - 《流畅的Python》[中文版](https://www.amazon.cn/%E6%B5%81%E7%95%85%E7%9A%84Python-Luciano-Ramalho/dp/B072HMKKPG)
     - 《Learning Python Design Patterns》
     - 《精通 Python 设计模式》[中文版](https://www.amazon.cn/%E7%B2%BE%E9%80%9APython%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E8%8D%B7-%E8%90%A8%E5%9F%BA%E6%96%AF%C2%B7%E5%8D%A1%E8%90%A8%E5%A7%86%E5%B8%95%E9%87%8C%E6%96%AF/dp/B01ION3VW8)
 
