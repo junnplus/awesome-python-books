@@ -33,6 +33,7 @@
 - *Think Python: How to Think Like a Computer Scientist* by Allen B. Downey [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 - *Learning Python* by Mark Lutz [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
 - *Core Python Programming* by Wesley Chun [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
+- *Python Crash Course* by Eric Matthes [English Edition](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036/)
 
 ### Intermediate
 - *Python 3 Object-Oriented Programming* by Dusty Phillips [English 2nd Edition](https://www.amazon.com/Python-3-Object-Oriented-Programming-Second/dp/1784398780)
