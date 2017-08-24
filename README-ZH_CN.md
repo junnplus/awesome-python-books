@@ -16,7 +16,7 @@
     - 《像计算机科学家一样思考Python》[中文版](https://www.amazon.cn/%E5%83%8F%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%80%E6%A0%B7%E6%80%9D%E8%80%83Python-%E5%94%90%E5%B0%BC/dp/B00EEDI2X6)
     - 《Python学习手册》[中文第四版](https://www.amazon.cn/Python%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C-%E9%B2%81%E7%89%B9%E5%85%B9/dp/B004TUJ7A6)
     - 《Python核心编程》[中文第二版](https://www.amazon.cn/Python%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B-%E4%B8%98%E6%81%A9/dp/B001BKVXOA) / [中文第三版](https://www.amazon.cn/Python/dp/B01FQAS0KK)
-
+    - 《Python编程 从入门到实践》[中文版](https://www.amazon.cn/Python%E7%BC%96%E7%A8%8B-%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5-%E7%BE%8E-%E5%9F%83%E9%87%8C%E5%85%8B-%E9%A9%AC%E7%91%9F%E6%96%AF/dp/B01ION3VWI/)
 - 进阶
     - 《Python 3面向对象编程》[中文版](https://www.amazon.cn/Python-3%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B-%E8%BE%BE%E6%96%AF%E5%B8%9D%C2%B7%E8%8F%B2%E5%88%A9%E6%99%AE%E6%96%AF/dp/B010MG1S84)
     - 《Python高手之路》[中文版](https://www.amazon.cn/Python%E9%AB%98%E6%89%8B%E4%B9%8B%E8%B7%AF-%E6%B3%95-%E6%9C%B1%E5%88%A9%E5%AE%89-%E4%B8%B9%E4%B9%94/dp/B00X65PEFC)
