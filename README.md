@@ -83,6 +83,7 @@
 - *Natural Language Processing with Python* by Steven Bird & Ewan Klein & Edward Loper [English Edition](http://www.amazon.com/Natural-Language-Processing-Python-Steven/dp/0596516495)
 
 ## Network
+- *Foundations of Python Network Programming* by Brandon Rhodes, John Goerzen [English 3rd Edition]（https://www.amazon.com/Foundations-Python-Network-Programming-Brandon/dp/1430258543）
 - *Python Network Programming Cookbook* by Dr. M. O. Faruque Sarker [English Edition](http://www.amazon.com/Python-Network-Programming-Cookbook-Faruque/dp/1849513465)
 
 ## Science and Data Analysis
