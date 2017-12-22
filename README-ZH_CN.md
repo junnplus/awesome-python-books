@@ -65,7 +65,6 @@
 
 ## 网络编程
 - 《Python网络编程》[亚马逊](https://www.amazon.cn/dp/B01LXK2W32) / [豆瓣](https://book.douban.com/subject/26869212/)
-- 《Python网络编程攻略》[亚马逊](https://www.amazon.cn/dp/B00PUP2IWS) / [豆瓣](https://book.douban.com/subject/26230343/)
 
 ## 科学与数据分析
 - 《数据科学入门》[亚马逊](https://www.amazon.cn/dp/B01DLBQPQC) / [豆瓣](https://book.douban.com/subject/26741078/)

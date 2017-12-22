@@ -86,7 +86,6 @@
 
 ## Network
 - *Foundations of Python Network Programming* by Brandon Rhodes, John Goerzen [English 3rd Edition](https://www.amazon.com/Foundations-Python-Network-Programming-Brandon/dp/1430258543)
-- *Python Network Programming Cookbook* by Dr. M. O. Faruque Sarker [English Edition](http://www.amazon.com/Python-Network-Programming-Cookbook-Faruque/dp/1849513465)
 
 ## Science and Data Analysis
 - *Data Science From Scratch: First Principles with Python* by Joel Grus [English Edition](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
