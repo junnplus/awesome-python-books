@@ -90,6 +90,7 @@
 - 《Flask Web开发：基于Python的Web应用开发实战》[豆瓣](https://book.douban.com/subject/26274202/)
 - 《深入理解 Flask》[亚马逊](https://www.amazon.cn/dp/B01IA9I2I4) / [豆瓣](https://book.douban.com/subject/26838547/)
 - 《Introduction to Tornado》[豆瓣](https://book.douban.com/subject/7906788/)
+- 《The Definitive Guide to Django》[豆瓣](https://book.douban.com/subject/3617254/)
 - 《Test-Driven Development with Django》[豆瓣](https://book.douban.com/subject/26608104/)
 - 《Python Web开发：测试驱动方法》[亚马逊](https://www.amazon.cn/dp/B016I9T8SQ) / [豆瓣](https://book.douban.com/subject/26640135/)
 
