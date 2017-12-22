@@ -32,6 +32,7 @@
 - *Beginning Python: from Novice to Professional* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
 - *Think Python: How to Think Like a Computer Scientist* by Allen B. Downey [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 - *Learning Python* by Mark Lutz [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
+- *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
 - *Core Python Programming* by Wesley Chun [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
 - *Python Crash Course* by Eric Matthes [English Edition](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036/)
 
@@ -40,9 +41,8 @@
 - *The Hacker's Guide to Python* by Julien Danjou [English Edition](http://www.amazon.com/Hackers-Guide-Python-Julien-Danjou/dp/1304819248)
 - *Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns* by Mark Summerfield [English Edition](http://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
 - *Expert Python Programming: Best practices for designing, coding, and distributing your Python software* by Tarek Ziadé [English Edition](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
-- *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
 - *Core Python Applications Programming* by Wesley Chun [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
-- *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
+- *Intermediate Python* [Online](http://book.pythontips.com/en/latest/)
 - *Effective Python: 59 Specific Ways to Write Better Python* [English Edition](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
 - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
