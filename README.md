@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Grammar](#grammar)
-- [Algorithm](#algorithm)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Game Development](#game-development)
 - [Hardware](#hardware)
 - [Machine Learning](#machine-learning)
@@ -59,7 +59,8 @@
 - *Python Essential Reference* by David M. Beazley [English 4th Edition](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786)
 - *Python in a Nutshell* by Alex Martelli [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
 
-## Algorithm
+## Data Structures and Algorithms
+- *Data Structures and Algorithms in Python* by Michael T. Goodrich & Roberto Tamassia & Michael H. Goldwasser [English Edition](https://www.amazon.com/Structures-Algorithms-Goodrich-Goldwasser-Hardcover/dp/B011DC80VY/)
 - *Python Algorithms: Mastering Basic Algorithms in the Python Language* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
 
 ## Complexity Science
