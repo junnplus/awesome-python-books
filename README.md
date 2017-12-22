@@ -30,6 +30,7 @@
 
 ### Primary
 - *Beginning Python: from Novice to Professional* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
+- *Build applications in Python the antitextbook* by Suraj Patil [English](http://github.com/thewhitetulip/build-app-with-python-antitextbook)
 - *Think Python: How to Think Like a Computer Scientist* by Allen B. Downey [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 - *Learning Python* by Mark Lutz [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
 - *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
