@@ -42,7 +42,9 @@
     - 《Python参考手册》[中文第四版](https://book.douban.com/subject/5401851/)
     - 《Python in a Nutshell》
 
-## 算法
+## 数据结构与算法
+- 《Data Structures and Algorithms in Python》
+- 《Problem Solving with Algorithms and Data Structures Using Python》
 - 《Python算法教程》[中文版](https://www.amazon.cn/Python%E7%AE%97%E6%B3%95%E6%95%99%E7%A8%8B-%E6%8C%AA%E5%A8%81-%E8%B5%AB%E7%89%B9%E5%85%B0/dp/B019NB0VCI)
 
 ## 游戏开发
