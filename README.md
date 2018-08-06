@@ -60,6 +60,7 @@
 - *Python in a Nutshell* by Alex Martelli [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
 
 ## Data Structures and Algorithms
+- *Classic Computer Science Problems in Python* by David Kopec [English Edition](https://www.manning.com/books/classic-computer-science-problems-in-python)
 - *Data Structures and Algorithms in Python* by Michael T. Goodrich & Roberto Tamassia & Michael H. Goldwasser [English Edition](https://www.amazon.com/Structures-Algorithms-Goodrich-Goldwasser-Hardcover/dp/B011DC80VY/)
 - *Problem Solving with Algorithms and Data Structures Using Python* by Bradley N. Miller & David L. Ranum [English 2nd Edition](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
 - *Python Algorithms: Mastering Basic Algorithms in the Python Language* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
