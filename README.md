@@ -83,6 +83,7 @@
 ## Natural Language Processing
 - *Mastering Python Regular Expressions* by Felix Lopez & Victor Romero [English Edition](http://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/)
 - *Natural Language Processing with Python* by Steven Bird & Ewan Klein & Edward Loper [English Edition](http://www.amazon.com/Natural-Language-Processing-Python-Steven/dp/0596516495)
+- *Real-World Natural Language Processing* by Masato Hagiwara [English Edition](https://www.manning.com/books/real-world-natural-language-processing)
 
 ## Network
 - *Foundations of Python Network Programming* by Brandon Rhodes, John Goerzen [English 3rd Edition](https://www.amazon.com/Foundations-Python-Network-Programming-Brandon/dp/1430258543)
