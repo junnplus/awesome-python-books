@@ -29,6 +29,7 @@
 - *Introduction to Computation and Programming Using Python* by John V. Guttag [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
 
 ### Primary
+- *The Quick Python Book* by Naomi Ceder [English 3rd Edition](https://www.amazon.com/Quick-Python-Book-Naomi-Ceder/dp/1617294039)
 - *Beginning Python: from Novice to Professional* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
 - *Think Python: How to Think Like a Computer Scientist* by Allen B. Downey [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 - *Learning Python* by Mark Lutz [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
