@@ -29,6 +29,7 @@
 - *Introduction to Computation and Programming Using Python* by John V. Guttag [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
 
 ### Primary
+- *The Quick Python Book* by Naomi Ceder [English 3rd Edition](https://www.amazon.com/Quick-Python-Book-Naomi-Ceder/dp/1617294039)
 - *Beginning Python: from Novice to Professional* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
 - *Think Python: How to Think Like a Computer Scientist* by Allen B. Downey [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 - *Learning Python* by Mark Lutz [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
@@ -36,6 +37,7 @@
 - *Core Python Programming* by Wesley Chun [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
 - *Python Crash Course* by Eric Matthes [English Edition](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036/)
 - *Python Programming: An Introduction to Computer Science* by John Zelle [English 3rd Edition](http://a.co/d/gym77UH)
+- *Tiny Python Projects* by Ken Youens-Clark [English 1st Edition](https://www.manning.com/books/tiny-python-projects), see also [GitHub repo](https://github.com/kyclark/tiny_python_projects)
 
 ### Intermediate
 - *Python 3 Object-Oriented Programming* by Dusty Phillips [English 2nd Edition](https://www.amazon.com/Python-3-Object-Oriented-Programming-Second/dp/1784398780)
@@ -48,6 +50,7 @@
 - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
 - *Mastering Python Design Patterns* by Sakis Kasampalis [English Edition](https://www.amazon.com/Mastering-Python-Design-Patterns-Kasampalis/dp/1783989327)
+- *The Well-Grounded Python Developer* by Doug Farrell [English Edition](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
 
 ### Advanced
 - *Mastering Python High Performance* by Fernando Doglio [English Edition](https://www.amazon.com/Mastering-Python-Performance-Fernando-Doglio/dp/1783989300)
@@ -61,6 +64,7 @@
 - *Python in a Nutshell* by Alex Martelli [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
 
 ## Data Structures and Algorithms
+- *Classic Computer Science Problems in Python* by David Kopec [English Edition](https://www.manning.com/books/classic-computer-science-problems-in-python)
 - *Data Structures and Algorithms in Python* by Michael T. Goodrich & Roberto Tamassia & Michael H. Goldwasser [English Edition](https://www.amazon.com/Structures-Algorithms-Goodrich-Goldwasser-Hardcover/dp/B011DC80VY/)
 - *Problem Solving with Algorithms and Data Structures Using Python* by Bradley N. Miller & David L. Ranum [English 2nd Edition](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
 - *Python Algorithms: Mastering Basic Algorithms in the Python Language* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
@@ -95,6 +99,7 @@
 - *NumPy Beginner's Guide* by Ivan Idris [English 3rd Edition](http://www.amazon.com/Numpy-Beginners-Guide-Ivan-Idris/dp/1785281968) / [English 2nd Edition](http://www.amazon.com/NumPy-Beginners-Guide-Second-Edition/dp/1782166084)
 - *Python for Finance: Analyze Big Financial Data* by Yves Hilpisch [English Edition](http://www.amazon.com/Python-Finance-Analyze-Financial-Data/dp/1491945281)
 - *A Programmer's Guide to Data Mining* by Ron Zacharski [Online](http://guidetodatamining.com/)
+- *Pandas in Action* by Boris Paskhaver [English Edition](https://www.manning.com/books/pandas-in-action)
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
