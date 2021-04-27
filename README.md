@@ -8,6 +8,7 @@
 - [Game Development](#game-development)
 - [Hardware](#hardware)
 - [Machine Learning](#machine-learning)
++ [Deep Learning](#deep-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Network](#network)
 - [Science and Data Analysis](#science-and-data-analysis)
@@ -84,6 +85,11 @@
 - *Programming Collective Intelligence: Building Smart Web 2.0 Applications* by Toby Segaran [English Edition](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
 - *Python Machine Learning* by Sebastian Raschka [English Edition](http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=)
 - *Machine Learning: An Algorithmic Perspective* by Stephen Marsland [English 2nd Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/)
+
+## Deep Learning
+- *Practical Deep Learning Book for Cloud, Mobile & Edge: Real-World AI and Computer Vision Projects Using Python, Keras and TensorFlow* by Anirudh Koul, Siddha Ganju, & Meher Kasam [[English 1st Edition](https://www.amazon.com/gp/product/149203486X?) | [Online](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) | [GitHub](https://github.com/PracticalDL/Practical-Deep-Learning-Book)]
+- *Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD* by Jeremy Howard & Sylvain Gugger [English 1st Edition](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
+- *Deep Learning* by Ian Goodfellow, Yoshua Bengio, Aaron Courville & Francis Bach [English 1st Edition](https://www.amazon.com/dp/0262035618)
 
 ## Natural Language Processing
 - *Mastering Python Regular Expressions* by Felix Lopez & Victor Romero [English Edition](http://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/)
