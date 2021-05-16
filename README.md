@@ -8,7 +8,7 @@
 - [Game Development](#game-development)
 - [Hardware](#hardware)
 - [Machine Learning](#machine-learning)
-+ [Deep Learning](#deep-learning)
+- [Deep Learning](#deep-learning)
 - [Natural Language Processing](#natural-language-processing)
 - [Network](#network)
 - [Science and Data Analysis](#science-and-data-analysis)
