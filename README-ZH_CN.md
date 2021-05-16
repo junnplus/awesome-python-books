@@ -79,6 +79,9 @@
 - 《Python灰帽子:黑客与逆向工程师的Python编程之道》[豆瓣](https://book.douban.com/subject/6025284/)
 - 《Python绝技:运用Python成为顶级黑客》[亚马逊](https://www.amazon.cn/dp/B019ZRGBVU) / [豆瓣](https://book.douban.com/subject/26702570/)
 
+## SQL 和 ORMs
+- 《SQL Alchemy：Python数据库实战》[亚马逊](https://www.amazon.cn/dp/B07YF84WV3) / [豆瓣](https://book.douban.com/subject/34784326/)
+
 ## 系统管理
 - 《Python UNIX 和 Linux 系统管理指南》[亚马逊](https://book.douban.com/subject/4031965/) / [豆瓣](https://book.douban.com/subject/4031965/)
 
