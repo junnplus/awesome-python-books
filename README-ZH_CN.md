@@ -20,8 +20,8 @@
 
 ## 语法
 - 零基础
-    - 《简明python教程》[在线](http://wiki.jikexueyuan.com/project/simple-python-course/)
-    - 《父与子的编程之旅:与小卡特一起学Python》[亚马逊](https://www.amazon.cn/dp/B00PG0MMLO) / [豆瓣](https://book.douban.com/subject/26005639/)
+    - 《简明Python教程》[在线](http://wiki.jikexueyuan.com/project/simple-python-course/)
+    - 《父与子的编程之旅：与小卡特一起学Python》[亚马逊](https://www.amazon.cn/dp/B00PG0MMLO) / [豆瓣](https://book.douban.com/subject/26005639/)
     - 《趣学Python编程》[亚马逊](https://www.amazon.cn/dp/B00IM56I5Q) / [豆瓣](https://book.douban.com/subject/25837145/)
     - 《"笨办法"学Python》[亚马逊](https://www.amazon.cn/dp/B00P6OJ0TC) / [在线](https://flyouting.gitbooks.io/learn-python-the-hard-way-cn/content/) / [豆瓣](https://book.douban.com/subject/26264642/)
     - 《Python编程初学者指南》[亚马逊](https://www.amazon.cn/dp/B00OZVSJAS/) / [豆瓣](https://book.douban.com/subject/26287445/)
@@ -33,16 +33,16 @@
     - 《Python学习手册》[亚马逊](https://www.amazon.cn/dp/B004TUJ7A6) / [豆瓣](https://book.douban.com/subject/6049132/)
     - 《Python编程》[亚马逊](https://www.amazon.cn/dp/B00R3UI2NC) / [豆瓣](https://book.douban.com/subject/26314833/) 
     - 《Python核心编程》[亚马逊](https://www.amazon.cn/dp/B001BKVXOA/) / [豆瓣](https://book.douban.com/subject/3112503/)
-    - 《Python编程 从入门到实践》[亚马逊](https://www.amazon.cn/dp/B01ION3VWI/) / [豆瓣](https://book.douban.com/subject/26829016/)
+    - 《Python编程：从入门到实践》[亚马逊](https://www.amazon.cn/dp/B01ION3VWI/) / [豆瓣](https://book.douban.com/subject/26829016/)
 
 - 进阶
     - 《Python 3面向对象编程》[亚马逊](https://www.amazon.cn/dp/B010MG1S84) / [豆瓣](https://book.douban.com/subject/26468916/)
     - 《Python高手之路》[亚马逊](https://www.amazon.cn/dp/B00X65PEFC) / [豆瓣](https://book.douban.com/subject/26389274/)
-    - 《Python编程实战:运用设计模式、并发和程序库创建高质量程序》[亚马逊](https://www.amazon.cn/dp/B00MHDPIJ6) / [豆瓣](https://book.douban.com/subject/25955274/)
+    - 《Python编程实战：运用设计模式、并发和程序库创建高质量程序》[亚马逊](https://www.amazon.cn/dp/B00MHDPIJ6) / [豆瓣](https://book.douban.com/subject/25955274/)
     - 《Python高级编程》[亚马逊](https://book.douban.com/subject/4212921/) / [豆瓣](https://book.douban.com/subject/27133480/)
     - 《Python应用核心编程》[豆瓣](https://book.douban.com/subject/26801374/)
     - 《Python进阶》[在线](https://eastlakeside.gitbooks.io/interpy-zh/content/)
-    - 《Effective Python:编写高质量Python代码的59个有效方法》[亚马逊](https://www.amazon.cn/dp/B01ASI36QS) / [豆瓣](https://book.douban.com/subject/26709315/)
+    - 《Effective Python：编写高质量Python代码的59个有效方法》[亚马逊](https://www.amazon.cn/dp/B01ASI36QS) / [豆瓣](https://book.douban.com/subject/26709315/)
     - 《流畅的Python》[亚马逊](https://www.amazon.cn/dp/B072HMKKPG) / [豆瓣](https://book.douban.com/subject/27028517/)
     - 《Python设计模式》[亚马逊](https://www.amazon.cn/dp/B073MDN9KZ) / [豆瓣](https://book.douban.com/subject/27091288/)
     - 《精通 Python 设计模式》[亚马逊](https://www.amazon.cn/dp/B01ION3VW8) / [豆瓣](https://book.douban.com/subject/26829015/)
@@ -60,7 +60,7 @@
     - 《Python in a Nutshell》[豆瓣](https://book.douban.com/subject/1845309/)
 
 ## 数据结构与算法
-- 《Data Structures and Algorithms in Python》[豆瓣](https://book.douban.com/subject/10607365/)
+- 《数据结构与算法：Python语言实现》[豆瓣](https://book.douban.com/subject/10607365/)
 - 《Problem Solving with Algorithms and Data Structures Using Python》[豆瓣](https://book.douban.com/subject/21325184/)
 - 《Python算法教程》[亚马逊](https://www.amazon.cn/dp/B019NB0VCI) / [豆瓣](https://book.douban.com/subject/26699412/)
 
@@ -85,15 +85,15 @@
 ## 科学与数据分析
 - 《数据科学入门》[亚马逊](https://www.amazon.cn/dp/B01DLBQPQC) / [豆瓣](https://book.douban.com/subject/26741078/)
 - 《利用Python进行数据分析》[亚马逊](https://www.amazon.cn/dp/B00GHGZLWS) / [豆瓣](https://book.douban.com/subject/25779298/)
-- 《SciPy and NumPy:An Overview for Developers》[豆瓣](https://book.douban.com/subject/10561724/)
-- 《Python数据分析基础教程:NumPy学习指南》[亚马逊](https://www.amazon.cn/dp/B00HLA8U86) / [豆瓣](https://book.douban.com/subject/25798462/)
+- 《SciPy and NumPy: An Overview for Developers》[豆瓣](https://book.douban.com/subject/10561724/)
+- 《Python数据分析基础教程：NumPy学习指南》[亚马逊](https://www.amazon.cn/dp/B00HLA8U86) / [豆瓣](https://book.douban.com/subject/25798462/)
 - 《Python金融大数据分析》[亚马逊](https://www.amazon.cn/dp/B0182K8YMA) / [豆瓣](https://book.douban.com/subject/26670241/)
 - 《面向程序员的数据挖掘指南》[亚马逊](https://www.amazon.cn/dp/B017QWR6BU) / [在线](http://dataminingguide.books.yourtion.com) / [豆瓣](https://book.douban.com/subject/26652166)
 
 ## 安全
-- 《Python黑帽子:黑客与渗透测试编程之道》[亚马逊](https://www.amazon.cn/dp/B013KKCLE4) / [豆瓣](https://book.douban.com/subject/26590145/)
-- 《Python灰帽子:黑客与逆向工程师的Python编程之道》[豆瓣](https://book.douban.com/subject/6025284/)
-- 《Python绝技:运用Python成为顶级黑客》[亚马逊](https://www.amazon.cn/dp/B019ZRGBVU) / [豆瓣](https://book.douban.com/subject/26702570/)
+- 《Python黑帽子：黑客与渗透测试编程之道》[亚马逊](https://www.amazon.cn/dp/B013KKCLE4) / [豆瓣](https://book.douban.com/subject/26590145/)
+- 《Python灰帽子：黑客与逆向工程师的Python编程之道》[豆瓣](https://book.douban.com/subject/6025284/)
+- 《Python绝技：运用Python成为顶级黑客》[亚马逊](https://www.amazon.cn/dp/B019ZRGBVU) / [豆瓣](https://book.douban.com/subject/26702570/)
 
 ## SQL 和 ORMs
 - 《SQL Alchemy：Python数据库实战》[亚马逊](https://www.amazon.cn/dp/B07YF84WV3) / [豆瓣](https://book.douban.com/subject/34784326/)
