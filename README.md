@@ -57,6 +57,7 @@
 - *Mastering Python High Performance* by Fernando Doglio [English Edition](https://www.amazon.com/Mastering-Python-Performance-Fernando-Doglio/dp/1783989300)
 - *High Performance Python: Practical Performant Programming for Humans* by Micha Gorelick [English Edition](http://www.amazon.com/High-Performance-Python-Performant-Programming/dp/1449361595)
 - *Cython - A Guide for Python Programmers* by Kurt W. Smith [English Edition](http://www.amazon.com/Cython-Kurt-W-Smith/dp/1491901551)
+- *CPython Internals: Your Guide to the Python 3 Interpreter* by Anthony Shaw [English Edition](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter/dp/1775093344)
 
 ### References
 - *The Python Standard Library by Example* by Doug Hellmann [English Edition](http://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0321767349)
