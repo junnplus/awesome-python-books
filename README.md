@@ -39,6 +39,7 @@
 - *Python Crash Course* by Eric Matthes [English Edition](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036/)
 - *Python Programming: An Introduction to Computer Science* by John Zelle [English 3rd Edition](http://a.co/d/gym77UH)
 - *Tiny Python Projects* by Ken Youens-Clark [English 1st Edition](https://www.manning.com/books/tiny-python-projects), see also [GitHub repo](https://github.com/kyclark/tiny_python_projects)
+- *The Python Coding Book: Understanding what programming really is* by Stephen Gruppetta [Online](https://thepythoncodingbook.com)
 
 ### Intermediate
 - *Python 3 Object-Oriented Programming* by Dusty Phillips [English 2nd Edition](https://www.amazon.com/Python-3-Object-Oriented-Programming-Second/dp/1784398780)
