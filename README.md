@@ -52,7 +52,8 @@
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
 - *Mastering Python Design Patterns* by Sakis Kasampalis [English Edition](https://www.amazon.com/Mastering-Python-Design-Patterns-Kasampalis/dp/1783989327)
 - *The Well-Grounded Python Developer* by Doug Farrell [English Edition](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
-- *TPublishing Python Packages* by Dane Hillard [English Edition](https://www.manning.com/books/publishing-python-packages)
+- *Publishing Python Packages* by Dane Hillard [English Edition](https://www.manning.com/books/publishing-python-packages)
+- *Python Concurrecy with asyncio* by Matthew Fowler [English Edition](https://www.manning.com/books/python-concurrency-with-asyncio)
 
 ### Advanced
 - *Mastering Python High Performance* by Fernando Doglio [English Edition](https://www.amazon.com/Mastering-Python-Performance-Fernando-Doglio/dp/1783989300)
