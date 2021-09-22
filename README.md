@@ -109,6 +109,7 @@
 - *Python for Finance: Analyze Big Financial Data* by Yves Hilpisch [English Edition](http://www.amazon.com/Python-Finance-Analyze-Financial-Data/dp/1491945281)
 - *A Programmer's Guide to Data Mining* by Ron Zacharski [Online](http://guidetodatamining.com/)
 - *Pandas in Action* by Boris Paskhaver [English Edition](https://www.manning.com/books/pandas-in-action)
+- *Data Analysis with Python and PySpark* by Jonathan Rioux [English Edition](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
