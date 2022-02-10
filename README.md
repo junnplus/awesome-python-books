@@ -112,6 +112,7 @@
 - *A Programmer's Guide to Data Mining* by Ron Zacharski [Online](http://guidetodatamining.com/)
 - *Pandas in Action* by Boris Paskhaver [English Edition](https://www.manning.com/books/pandas-in-action)
 - *Data Analysis with Python and PySpark* by Jonathan Rioux [English Edition](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
+- *Time Series Forecasting in Python* by Marco Peixeiro [English Edition](https://www.manning.com/books/time-series-forecasting-in-python-book)
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
