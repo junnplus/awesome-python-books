@@ -134,6 +134,7 @@
 - *The Definitive Guide to Django* by Adrian Holovaty & Jacob Kaplan-Moss [English 2nd Edition](https://www.amazon.com/dp/143021936X/)
 - *Test-Driven Development with Django* by Kevin Harvey [English Edition](http://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey-ebook/dp/B00YSILNJW/)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
+- *Microservice APIs: with examples in Python* by José Haro Peralta [English Edition](https://www.manning.com/books/microservice-apis)
 
 ## Web Scraping
 - *Web Scraping with Python: A Comprehensive Guide to Data Collection Solutions* by Ryan Mitchell [English Edition](http://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491910291)
