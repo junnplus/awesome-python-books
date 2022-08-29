@@ -47,6 +47,7 @@
 - *Expert Python Programming: Best practices for designing, coding, and distributing your Python software* by Tarek Ziadé [English Edition](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
 - *Core Python Applications Programming* by Wesley Chun [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
 - *Intermediate Python* [Online](http://book.pythontips.com/en/latest/)
+- *Learn Python Programming Language* [Online](https://www.scaler.com/topics/python/what-is-python/)
 - *Effective Python: 59 Specific Ways to Write Better Python* [English Edition](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
 - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
