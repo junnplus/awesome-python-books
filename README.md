@@ -28,6 +28,7 @@
 - *Learn Python the Hard Way* by Zed A. Shaw [English 3rd Edition](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914)
 - *Python Programming for the Absolute Beginner* by Michael Dawson [English 2nd Edition](http://www.amazon.com/Python-Programming-Absolute-Beginner-Edition/dp/1598631128)
 - *Introduction to Computation and Programming Using Python* by John V. Guttag [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
+- *Let's Talk Python* by Pavel Anni [English Edition](https://www.manning.com/books/lets-talk-python)
 
 ### Primary
 - *The Quick Python Book* by Naomi Ceder [English 3rd Edition](https://www.amazon.com/Quick-Python-Book-Naomi-Ceder/dp/1617294039)
