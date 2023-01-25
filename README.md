@@ -28,6 +28,7 @@
 - *Learn Python the Hard Way* by Zed A. Shaw [English 3rd Edition](http://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0321884914)
 - *Python Programming for the Absolute Beginner* by Michael Dawson [English 2nd Edition](http://www.amazon.com/Python-Programming-Absolute-Beginner-Edition/dp/1598631128)
 - *Introduction to Computation and Programming Using Python* by John V. Guttag [English Edition](http://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262525003)
+- *Let's Talk Python* by Pavel Anni [English Edition](https://www.manning.com/books/lets-talk-python)
 
 ### Primary
 - *The Quick Python Book* by Naomi Ceder [English 3rd Edition](https://www.amazon.com/Quick-Python-Book-Naomi-Ceder/dp/1617294039)
@@ -39,6 +40,7 @@
 - *Python Crash Course* by Eric Matthes [English Edition](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036/)
 - *Python Programming: An Introduction to Computer Science* by John Zelle [English 3rd Edition](http://a.co/d/gym77UH)
 - *Tiny Python Projects* by Ken Youens-Clark [English 1st Edition](https://www.manning.com/books/tiny-python-projects), see also [GitHub repo](https://github.com/kyclark/tiny_python_projects)
+- *Python How-To* by Yong Cui [English 1st Edition](https://www.manning.com/books/python-how-tos)
 
 ### Intermediate
 - *Python 3 Object-Oriented Programming* by Dusty Phillips [English 2nd Edition](https://www.amazon.com/Python-3-Object-Oriented-Programming-Second/dp/1784398780)
@@ -52,6 +54,8 @@
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
 - *Mastering Python Design Patterns* by Sakis Kasampalis [English Edition](https://www.amazon.com/Mastering-Python-Design-Patterns-Kasampalis/dp/1783989327)
 - *The Well-Grounded Python Developer* by Doug Farrell [English Edition](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b)
+- *Publishing Python Packages* by Dane Hillard [English Edition](https://www.manning.com/books/publishing-python-packages)
+- *Python Concurrecy with asyncio* by Matthew Fowler [English Edition](https://www.manning.com/books/python-concurrency-with-asyncio)
 
 ### Advanced
 - *Mastering Python High Performance* by Fernando Doglio [English Edition](https://www.amazon.com/Mastering-Python-Performance-Fernando-Doglio/dp/1783989300)
@@ -86,11 +90,14 @@
 - *Programming Collective Intelligence: Building Smart Web 2.0 Applications* by Toby Segaran [English Edition](http://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325)
 - *Python Machine Learning* by Sebastian Raschka [English Edition](http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=)
 - *Machine Learning: An Algorithmic Perspective* by Stephen Marsland [English 2nd Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/)
+- *Fast Python for Data Science* by Tiago Rodrigues Antao [English Edition](https://www.manning.com/books/fast-python-for-data-science)
+- *Build Robo Advisor with Python* by Rob Reider and Alexander Michalka [English Edition](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch)
 
 ## Deep Learning
 - *Practical Deep Learning Book for Cloud, Mobile & Edge: Real-World AI and Computer Vision Projects Using Python, Keras and TensorFlow* by Anirudh Koul, Siddha Ganju, & Meher Kasam [[English 1st Edition](https://www.amazon.com/gp/product/149203486X?) | [Online](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) | [GitHub](https://github.com/PracticalDL/Practical-Deep-Learning-Book)]
 - *Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD* by Jeremy Howard & Sylvain Gugger [English 1st Edition](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 - *Deep Learning* by Ian Goodfellow, Yoshua Bengio, Aaron Courville & Francis Bach [English 1st Edition](https://www.amazon.com/dp/0262035618)
+- *Deep Learning with Python, Second Edition* by François Chollet [English 1st Edition](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
 ## Natural Language Processing
 - *Mastering Python Regular Expressions* by Felix Lopez & Victor Romero [English Edition](http://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/)
@@ -107,6 +114,8 @@
 - *Python for Finance: Analyze Big Financial Data* by Yves Hilpisch [English Edition](http://www.amazon.com/Python-Finance-Analyze-Financial-Data/dp/1491945281)
 - *A Programmer's Guide to Data Mining* by Ron Zacharski [Online](http://guidetodatamining.com/)
 - *Pandas in Action* by Boris Paskhaver [English Edition](https://www.manning.com/books/pandas-in-action)
+- *Data Analysis with Python and PySpark* by Jonathan Rioux [English Edition](https://www.manning.com/books/data-analysis-with-python-and-pyspark)
+- *Time Series Forecasting in Python* by Marco Peixeiro [English Edition](https://www.manning.com/books/time-series-forecasting-in-python-book)
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
@@ -129,6 +138,7 @@
 - *The Definitive Guide to Django* by Adrian Holovaty & Jacob Kaplan-Moss [English 2nd Edition](https://www.amazon.com/dp/143021936X/)
 - *Test-Driven Development with Django* by Kevin Harvey [English Edition](http://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey-ebook/dp/B00YSILNJW/)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
+- *Microservice APIs: with examples in Python* by José Haro Peralta [English Edition](https://www.manning.com/books/microservice-apis)
 
 ## Web Scraping
 - *Web Scraping with Python: A Comprehensive Guide to Data Collection Solutions* by Ryan Mitchell [English Edition](http://www.amazon.com/Web-Scraping-Python-Collecting-Modern/dp/1491910291)
