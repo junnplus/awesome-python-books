@@ -91,6 +91,7 @@
 - *Python Machine Learning* by Sebastian Raschka [English Edition](http://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130/ref=tmm_pap_title_0?_encoding=UTF8&qid=&sr=)
 - *Machine Learning: An Algorithmic Perspective* by Stephen Marsland [English 2nd Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282/)
 - *Fast Python for Data Science* by Tiago Rodrigues Antao [English Edition](https://www.manning.com/books/fast-python-for-data-science)
+- *Build Robo Advisor with Python* by Rob Reider and Alexander Michalka [English Edition](https://www.manning.com/books/build-a-robo-advisor-with-python-from-scratch)
 
 ## Deep Learning
 - *Practical Deep Learning Book for Cloud, Mobile & Edge: Real-World AI and Computer Vision Projects Using Python, Keras and TensorFlow* by Anirudh Koul, Siddha Ganju, & Meher Kasam [[English 1st Edition](https://www.amazon.com/gp/product/149203486X?) | [Online](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) | [GitHub](https://github.com/PracticalDL/Practical-Deep-Learning-Book)]
