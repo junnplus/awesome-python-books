@@ -64,6 +64,7 @@
 - *Python Cookbook* by David Beazley & Brian K. Jones [English 3rd Edition](http://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377)
 - *Python Essential Reference* by David M. Beazley [English 4th Edition](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786)
 - *Python in a Nutshell* by Alex Martelli [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
+- *Python Developer Roadmap* by Kamran Ahmed [Python Developer Roadmap](https://roadmap.sh/python)
 
 ## Data Structures and Algorithms
 - *Classic Computer Science Problems in Python* by David Kopec [English Edition](https://www.manning.com/books/classic-computer-science-problems-in-python)
