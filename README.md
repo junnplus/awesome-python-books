@@ -1,6 +1,13 @@
 # Awesome Python Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Directory of Python books
+## _Directory of Python books_
+
+Welcome to our curated collection of free Python-related eBooks available on the Internet. Python is a versatile programming language with a vast ecosystem of libraries catering to various purposes and user groups. Our comprehensive list encompasses a wide range of libraries, spanning from well-documented and widely popular options to more niche and minimally-documented ones. Regardless of your skill level, whether you're a beginner or an experienced practitioner, you'll find valuable resources here.
+
+All the eBooks included in this collection are made available under open source licenses, ensuring that they can be freely accessed and read without any cost. By compiling this list, we aim to provide a one-stop resource for Python enthusiasts, offering a diverse selection of books that cover different aspects of the language. Whether you're looking for general-purpose Python material or specialized topics, we've got you covered.
+
+Feel free to explore the eBooks in this collection and enhance your Python knowledge. **Happy learning!**
+
 
 ## Table of Contents
 - [Grammar](#grammar)
