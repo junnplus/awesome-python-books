@@ -107,6 +107,8 @@
 - *Python for Finance: Analyze Big Financial Data* by Yves Hilpisch [English Edition](http://www.amazon.com/Python-Finance-Analyze-Financial-Data/dp/1491945281)
 - *A Programmer's Guide to Data Mining* by Ron Zacharski [Online](http://guidetodatamining.com/)
 - *Pandas in Action* by Boris Paskhaver [English Edition](https://www.manning.com/books/pandas-in-action)
+- *Unveiling 70 Mathematical Concepts with Python: A Practical Guide to Exploring Mathematics Through Python* by Guillaume Saupin [English Edition](https://www.amazon.com/Unveiling-Mathematical-Concepts-Python-Mathematics/dp/B0C91TH1WK)
+- *Practical Gradient Boosting: A deep dive into Gradient Boosting in Python* by Guillaume Saupin [English Edition](https://www.amazon.com/Practical-Gradient-Boosting-deep-Python/dp/B0BJ82S916)
 
 ## Security
 - *Black Hat Python: Python Programming for Hackers and Pentesters* by Justin Seitz [English Edition](http://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
