@@ -91,6 +91,7 @@
 - *Practical Deep Learning Book for Cloud, Mobile & Edge: Real-World AI and Computer Vision Projects Using Python, Keras and TensorFlow* by Anirudh Koul, Siddha Ganju, & Meher Kasam [[English 1st Edition](https://www.amazon.com/gp/product/149203486X?) | [Online](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) | [GitHub](https://github.com/PracticalDL/Practical-Deep-Learning-Book)]
 - *Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD* by Jeremy Howard & Sylvain Gugger [English 1st Edition](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 - *Deep Learning* by Ian Goodfellow, Yoshua Bengio, Aaron Courville & Francis Bach [English 1st Edition](https://www.amazon.com/dp/0262035618)
+- *Deep Learning with Python, Third Edition* by François Chollet & Matthew Watson [English 3rd Edition](https://www.manning.com/books/deep-learning-with-python-third-edition)
 
 ## Natural Language Processing
 - *Mastering Python Regular Expressions* by Felix Lopez & Victor Romero [English Edition](http://www.amazon.com/Mastering-Python-Regular-Expressions-Felix/dp/1783283157/)
